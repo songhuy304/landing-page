@@ -1,0 +1,111 @@
+{
+  "Root": {
+    "home": "Trang chủ",
+    "about": "Thông tin công ty",
+    "contact": "Liên hệ",
+    "signIn": "Đăng nhập",
+    "signUp": "Đăng ký",
+    "resetPassword": "Quên mật khẩu",
+    "Logout": "Đăng xuất",
+    "close": "Đóng",
+    "recruitment": "Tuyển dụng",
+    "retail": "Bán lẻ",
+    "nail": "Dịch vụ làm móng",
+    "companyInfo": "Thông tin công ty",
+    "workingHours": "Giờ làm việc",
+    "dayWork": "Thứ 2 - Thứ 6",
+    "notFound": {
+      "title": "Trang không tồn tại",
+      "description": "Xin lỗi, chúng tôi không tìm thấy trang bạn đang tìm kiếm.",
+      "button": "Trở lại trang chủ"
+    }
+  },
+
+  "HomePage": {
+    "title-section": "Stablecoins, Reinvented with Real Estate for the hospitality industry",
+    "featureTitle": "Dịch Vụ Chính",
+    "featureSubTitle": "Dịch Vụ Chuyên Nghiệp",
+    "featureDes": "Chúng tôi cung cấp các dịch vụ chất lượng cao trong lĩnh vực tuyển dụng, làm móng và bán thực phẩm để đáp ứng nhiều nhu cầu khác nhau.",
+    "readMore": "Xem thêm",
+    "nail": "Làm móng",
+    "recruitment": "Giới thiệu nhân lực",
+    "retail": "Bán lẻ",
+    "brandStoryTitle": "Cầu nối giữa doanh nghiệp và người tài",
+    "heroTitle": "Xây dựng phần mềm thông minh, phát triển tương lai của bạn",
+    "heroSub": "Từ ứng dụng web, mobile đến giải pháp doanh nghiệp – chúng tôi là đối tác công nghệ đáng tin cậy, sẵn sàng hiện thực hoá ý tưởng của bạn.",
+    "heroCta": "Khám phá dịch vụ của chúng tôi",
+    "companyInfoTitle": "Thông tin công ty",
+    "companyName": "Tên công ty",
+    "companyNameValue": "Công ty cổ phần LHF",
+    "companyAddress": "Địa chỉ",
+    "companyAddressValue": "Aichi-ken, Ichinomiya-shi, Shimamura Uji Kōkōji 105-2, tầng 2",
+    "companyHours": "Giờ làm việc",
+    "companyHoursValue": "Liên hệ: ",
+    "contactInfo": "Để được giải đáp thắc mắc:",
+    "phoneNumber": "Điện thoại",
+    "emailAddress": "Email",
+    "companyWebsite": "Website",
+    "companyWebsiteValue": "lhf.co.jp",
+    "monday": "Thứ 2",
+    "friday": "Thứ 6",
+    "saturday": "Thứ 7",
+    "sunday": "Chủ nhật",
+    "closed": "Đóng cửa",
+    "termsOfService": "Điều khoản dịch vụ",
+    "privacyPolicy": "Chính sách bảo mật",
+    "allRightsReserved": "Tất cả các quyền được bảo lưu",
+    "viewOnMap": "Xem trên bản đồ",
+    "stats": {
+      "teamMembers": "Thành viên nhiệt huyết trong team",
+      "products": "Sản phẩm phần mềm đã phát triển",
+      "satisfaction": "Tỷ lệ khách hàng hài lòng"
+    },
+    "services": {
+      "description": "Sứ mệnh của chúng tôi là thúc đẩy tiến bộ và nâng cao cuộc sống của khách hàng bằng cách cung cấp các sản phẩm và dịch vụ vượt trội vượt quá mong đợi.",
+      "readMore": "Xem thêm",
+      "cta": "Thuê chúng tôi ngay hôm nay",
+      "webDevelopment": {
+        "title": "Website Development",
+        "description": "Phát triển website chuyên nghiệp, tối ưu hóa trải nghiệm người dùng và hiệu suất cao."
+      },
+      "graphicDesign": {
+        "title": "Graphic Design",
+        "description": "Thiết kế đồ họa sáng tạo, logo, banner và các tài liệu marketing chuyên nghiệp."
+      },
+      "uiUxDesign": {
+        "title": "UI/UX Design",
+        "description": "Thiết kế giao diện người dùng và trải nghiệm người dùng tối ưu, thân thiện và hiệu quả."
+      },
+      "toolsDevelopment": {
+        "title": "Tools Development",
+        "description": "Phát triển các công cụ và ứng dụng hỗ trợ công việc, tăng năng suất và hiệu quả."
+      }
+    },
+    "team": {
+      "description": "Đội ngũ chuyên nghiệp và tài năng của chúng tôi luôn sẵn sàng mang đến những giải pháp tốt nhất cho khách hàng.",
+      "nghiaPham": {
+        "name": "Nghia Pham",
+        "role": "Backend Developer"
+      },
+      "huyDang": {
+        "name": "Huy Dang",
+        "role": "Frontend Developer"
+      },
+      "sarahJohnson": {
+        "name": "Sarah Johnson",
+        "role": "Backend Developer"
+      },
+      "mikeWilson": {
+        "name": "Mike Wilson",
+        "role": "UI/UX Designer"
+      }
+    }
+  },
+  "Meta": {
+    "title": "Whitepace",
+    "SNSDes": "Thông tin đăng bài trên SNS",
+    "nameCompany": "Tên công ty",
+    "description": "Whitepace là công ty cổ phần cung cấp dịch vụ chất lượng cao về phần mềm",
+    "boardOfDirectors": "Tiêu biểu"
+  }
+}

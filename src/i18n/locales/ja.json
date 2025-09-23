@@ -1,0 +1,110 @@
+{
+  "Root": {
+    "home": "ホーム",
+    "about": "会社情報",
+    "contact": "お問い合わせ",
+    "signIn": "ログイン",
+    "signUp": "新規登録",
+    "resetPassword": "パスワードをリセット",
+    "Logout": "ログアウト",
+    "close": "閉じる",
+    "recruitment": "人材紹介",
+    "retail": "食品販売",
+    "nail": "ネイル",
+    "companyInfo": "会社情報",
+    "workingHours": "営業時間",
+    "dayWork": "月曜日 - 金曜日",
+    "notFound": {
+      "title": "ページが見つかりません",
+      "description": "申し訳ありませんが、お探しのページは見つかりませんでした。",
+      "button": "ホームに戻る"
+    }
+  },
+  "HomePage": {
+    "title-section": "ホスピタリティ業界向けの不動産でステーブルコインを再発明",
+    "featureTitle": "主なサービス",
+    "featureSubTitle": "プロフェッショナルサービス",
+    "featureDes": "人材紹介、ネイル、食品販売で高品質なサービスを提供し、多様なニーズにお応えします。",
+    "readMore": "詳細を見る",
+    "nail": "ネイル",
+    "recruitment": "人材紹介",
+    "retail": "食品販売",
+    "brandStoryTitle": "企業と人材を繋ぐ架け橋",
+    "heroTitle": "スマートなソフトウェアを構築し、あなたの未来を加速",
+    "heroSub": "Web・モバイルからエンタープライズソリューションまで―私たちは信頼できるテクノロジーパートナーとして、あなたのアイデアを実現します。",
+    "heroCta": "私たちのサービスを見る",
+    "companyInfoTitle": "会社情報",
+    "companyName": "会社名",
+    "companyNameValue": "株式会社LHF",
+    "companyAddress": "住所",
+    "companyAddressValue": "愛知県一宮市島村氏江向寺105-2、2階",
+    "companyHours": "営業時間",
+    "companyHoursValue": "お問い合わせ: ",
+    "contactInfo": "お問い合わせ",
+    "phoneNumber": "電話番号",
+    "emailAddress": "メールアドレス",
+    "companyWebsite": "ウェブサイト",
+    "companyWebsiteValue": "lhf.co.jp",
+    "monday": "月曜日",
+    "friday": "金曜日",
+    "saturday": "土曜日",
+    "sunday": "日曜日",
+    "closed": "休業",
+    "termsOfService": "利用規約",
+    "privacyPolicy": "プライバシーポリシー",
+    "allRightsReserved": "All rights reserved",
+    "viewOnMap": "地図を見る",
+    "stats": {
+      "teamMembers": "情熱的なチームメンバー",
+      "products": "開発したソフトウェア製品",
+      "satisfaction": "顧客満足度"
+    },
+    "services": {
+      "description": "私たちの使命は、期待を超える優れた製品とサービスを提供することで、進歩を促進し、お客様の生活を向上させることです。",
+      "readMore": "詳細を見る",
+      "cta": "今すぐお問い合わせ",
+      "webDevelopment": {
+        "title": "ウェブサイト開発",
+        "description": "プロフェッショナルなウェブサイト開発、ユーザーエクスペリエンスとパフォーマンスの最適化。"
+      },
+      "graphicDesign": {
+        "title": "グラフィックデザイン",
+        "description": "創造的なグラフィックデザイン、ロゴ、バナー、プロフェッショナルなマーケティング資料。"
+      },
+      "uiUxDesign": {
+        "title": "UI/UXデザイン",
+        "description": "ユーザーインターフェースとユーザーエクスペリエンスの最適化、親しみやすく効率的なデザイン。"
+      },
+      "toolsDevelopment": {
+        "title": "ツール開発",
+        "description": "業務をサポートするツールとアプリケーションの開発、生産性と効率性の向上。"
+      }
+    },
+    "team": {
+      "description": "私たちのプロフェッショナルで才能豊かなチームは、お客様に最高のソリューションを提供する準備ができています。",
+      "nghiaPham": {
+        "name": "Nghia Pham",
+        "role": "Backend Developer"
+      },
+      "huyDang": {
+        "name": "Huy Dang",
+        "role": "Frontend Developer"
+      },
+      "sarahJohnson": {
+        "name": "Sarah Johnson",
+        "role": "Backend Developer"
+      },
+      "mikeWilson": {
+        "name": "Mike Wilson",
+        "role": "UI/UX Designer"
+      }
+    }
+  },
+  "Meta": {
+    "title": "Whitepace",
+    "SNSDes": "SNS掲載情報",
+    "nameCompany": "会社名",
+    "description": "Whitepaceは、ネイル、人材紹介、食品販売の分野で高品質なサービスを提供しています。",
+    "boardOfDirectors": "代表者"
+  }
+}
