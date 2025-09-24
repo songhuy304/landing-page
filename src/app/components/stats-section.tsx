@@ -26,7 +26,7 @@ export default function StatsSection() {
   ];
 
   return (
-    <section className="bg-white">
+    <section id="stats" className="bg-white">
       <div className="container">
         <div className="grid grid-cols-1 gap-10 py-14 md:grid-cols-3 md:py-20">
           {items.map((item, index) => (

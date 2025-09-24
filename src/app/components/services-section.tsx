@@ -38,7 +38,7 @@ const ServicesSection = () => {
   ];
 
   return (
-    <section className="py-16 md:py-24 bg-gray-50">
+    <section id="services" className="py-16 md:py-24 bg-gray-50">
       <div className="container mx-auto px-4">
         <TitleHeading des={t("description")}>
           <span className="text-gray-900">Our </span>

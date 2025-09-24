@@ -9,7 +9,10 @@ import { Button } from "@/components/ui/button";
 const HeroSection = () => {
   const t = useTranslations("HomePage");
   return (
-    <section className="min-h-screen relative overflow-hidden flex items-center">
+    <section
+      id="hero"
+      className="min-h-screen relative overflow-hidden flex items-center"
+    >
       {/* Background fixed */}
       <Image
         src={Banner}

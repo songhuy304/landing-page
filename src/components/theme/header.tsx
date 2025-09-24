@@ -3,11 +3,11 @@
 import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Menu, X } from "lucide-react";
-import { useTranslations } from "next-intl";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import Link from "next/link";
 import Logo from "@/components/ui/logo";
 import { cn } from "@/lib/utils";
+import { useTranslations } from "next-intl";
 
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -16,10 +16,10 @@ export default function Header() {
 
   const menuItems = [
     { href: "/", label: "home" },
-    { href: "/about", label: "about" },
-    { href: "/recruitment", label: "recruitment" },
-    { href: "/nail", label: "nail" },
-    { href: "/retail", label: "retail" },
+    { href: "/#services", label: "services" },
+    { href: "/#team", label: "team" },
+    { href: "/#projects", label: "projects" },
+    { href: "/#contact", label: "contact" },
   ];
 
   useEffect(() => {

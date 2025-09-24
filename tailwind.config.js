@@ -39,6 +39,10 @@ module.exports = {
           DEFAULT: "#FAF6F3",
           foreground: "#6B7280",
         },
+        destructive: {
+          DEFAULT: "#DC2626",
+          foreground: "#FFFFFF",
+        },
       },
       fontFamily: {
         sans: ["var(--font-sans)"],

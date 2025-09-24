@@ -3,6 +3,9 @@
     "home": "ホーム",
     "about": "会社情報",
     "contact": "お問い合わせ",
+    "services": "サービス",
+    "team": "チーム",
+    "projects": "プロジェクト",
     "signIn": "ログイン",
     "signUp": "新規登録",
     "resetPassword": "パスワードをリセット",
@@ -80,6 +83,37 @@
         "description": "業務をサポートするツールとアプリケーションの開発、生産性と効率性の向上。"
       }
     },
+    "projects": {
+      "description": "私たちが最近手がけた代表的なプロジェクトです。",
+      "viewProject": "プロジェクトを見る",
+      "common": {
+        "client": "クライアント",
+        "imagePending": "※画像は準備中",
+        "techUsed": "使用技術",
+        "results": "成果"
+      },
+      "p1": {
+        "title": "ECプラットフォーム",
+        "description": "在庫管理、決済、分析を備えたオムニチャネル販売システム。",
+        "client": "環境配慮型企業",
+        "tech": ["Next.js", "TypeScript", "Stripe", "PostgreSQL"],
+        "results": ["売上300%向上", "月間10万PV達成"]
+      },
+      "p2": {
+        "title": "予約管理アプリ",
+        "description": "サロンやクリニック向けのリアルタイム予約ソリューション。",
+        "client": "美容サロン",
+        "tech": ["Flutter", "Firebase"],
+        "results": ["ノーショー率-35%", "予約処理時間-50%"]
+      },
+      "p3": {
+        "title": "データ分析ダッシュボード",
+        "description": "企業KPIとアラートのためのリアルタイムダッシュボード。",
+        "client": "SaaS企業",
+        "tech": ["React", "NestJS", "ClickHouse"],
+        "results": ["意思決定スピード2倍", "運用コスト-20%"]
+      }
+    },
     "team": {
       "description": "私たちのプロフェッショナルで才能豊かなチームは、お客様に最高のソリューションを提供する準備ができています。",
       "nghiaPham": {
@@ -97,6 +131,22 @@
       "mikeWilson": {
         "name": "Mike Wilson",
         "role": "UI/UX Designer"
+      }
+    },
+    "contact": {
+      "title": "お問い合わせ",
+      "subtitle": "メッセージをお送りください。できるだけ早くご連絡いたします。",
+      "fullName": "お名前",
+      "fullNamePlaceholder": "山田 太郎",
+      "email": "メールアドレス",
+      "emailPlaceholder": "you@example.com",
+      "message": "メッセージ",
+      "messagePlaceholder": "お問い合わせ内容",
+      "submit": "送信",
+      "errors": {
+        "fullNameRequired": "お名前を入力してください",
+        "emailRequired": "メールアドレスを入力してください",
+        "emailInvalid": "メールアドレスの形式が正しくありません"
       }
     }
   },
