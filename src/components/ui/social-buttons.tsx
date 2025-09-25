@@ -24,28 +24,28 @@ export type SocialPlatform =
 export const socialConfig = {
   facebook: {
     icon: FacebookIcon,
-    href: ContactInfo.facebookUrl,
+    href: "https://www.facebook.com/profile.php?id=100063651254108",
     label: "Facebook",
     bgColor: "bg-blue-600 hover:bg-blue-700",
     textColor: "text-white",
   },
   line: {
     icon: LineIcon,
-    href: ContactInfo.lineUrl,
+    href: "https://line.me/ti/p/zLtW989E9P",
     label: "Line",
     bgColor: "bg-green-500 hover:bg-green-600",
     textColor: "text-white",
   },
   hotpepper: {
     icon: HotPepperIcon,
-    href: ContactInfo.hotpepperUrl,
+    href: "https://www.hotpepper.jp/Beauty/KSHD/L/201500000040531",
     label: "Hot Pepper Beauty",
     bgColor: "bg-[#9f1547] hover:bg-[#9f1547]/80",
     textColor: "text-white",
   },
   instagram: {
     icon: InstagramIcon,
-    href: ContactInfo.instagramUrl,
+    href: "https://www.instagram.com/nail_studio_kushiro/",
     label: "Instagram",
     bgColor: "bg-pink-400 hover:bg-pink-500",
     textColor: "text-white",
@@ -59,7 +59,7 @@ export const socialConfig = {
   },
   phone: {
     icon: PhoneCall, // Custom SVG icon
-    href: `tel:${ContactInfo.phone}`,
+    href: `tel:${"090-1234-5678"}`,
     label: "Gọi điện",
     bgColor: "bg-red-600 hover:bg-red-700",
     textColor: "text-white",
