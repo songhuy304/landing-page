@@ -64,6 +64,8 @@
       "satisfaction": "Tỷ lệ khách hàng hài lòng"
     },
     "services": {
+      "title": "Dịch vụ",
+      "our": "Dịch vụ của chúng tôi",
       "description": "Sứ mệnh của chúng tôi là thúc đẩy tiến bộ và nâng cao cuộc sống của khách hàng bằng cách cung cấp các sản phẩm và dịch vụ vượt trội vượt quá mong đợi.",
       "readMore": "Xem thêm",
       "cta": "Thuê chúng tôi ngay hôm nay",
@@ -85,8 +87,11 @@
       }
     },
     "projects": {
+      "title": "Dự án",
+      "our": "Dự án của chúng tôi",
       "description": "Một vài dự án tiêu biểu mà chúng tôi đã thực hiện gần đây.",
       "viewProject": "Xem dự án",
+      "viewMore": "Xem thêm",
       "common": {
         "client": "Khách hàng",
         "imagePending": "Hình ảnh đang cập nhật",
@@ -94,31 +99,49 @@
         "results": "Kết quả"
       },
       "p1": {
-        "title": "Nền tảng thương mại điện tử",
-        "description": "Hệ thống bán hàng đa kênh với quản trị tồn kho, thanh toán và phân tích.",
-        "client": "Doanh nghiệp chú trọng môi trường",
-        "tech": ["Next.js", "TypeScript", "Stripe", "PostgreSQL"],
-        "results": ["Tăng 300% doanh thu", "Đạt 100k PV/tháng"]
+        "title": "LHF",
+        "description": "Website chính thức của Công ty TNHH LHF (株式会社 LHF), chuyên về dịch vụ nail, bán lẻ và tuyển dụng.",
+        "client": "Công ty TNHH LHF",
+        "tech": ["Next.js", "TypeScript", "Tailwind CSS"],
+        "results": ["Website chính thức", "Đa ngôn ngữ", "Responsive design"],
+        "demoLink": "https://lhf.co.jp"
       },
       "p2": {
-        "title": "Ứng dụng quản lý đặt lịch",
-        "description": "Giải pháp đặt lịch theo thời gian thực cho salon và phòng khám.",
-        "client": "Chuỗi salon làm đẹp",
-        "tech": ["Flutter", "Firebase"],
-        "results": ["Giảm 35% bỏ hẹn", "Giảm 50% thời gian xử lý"]
+        "title": "City Land",
+        "description": "Trang web giới thiệu về dự án dịch vụ bất động sản mua bán nhà ở chung cư.",
+        "client": "City Land",
+        "tech": ["HTML", "CSS", "JavaScript", "WordPress"],
+        "results": [
+          "Website bất động sản",
+          "Giao diện thân thiện",
+          "Tối ưu SEO"
+        ],
+        "demoLink": "https://city-land-six.vercel.app"
       },
       "p3": {
-        "title": "Dashboard phân tích dữ liệu",
-        "description": "Bảng điều khiển thời gian thực cho KPI doanh nghiệp và cảnh báo.",
-        "client": "Công ty SaaS",
-        "tech": ["React", "NestJS", "ClickHouse"],
+        "title": "Jiho!",
+        "description": "Website chính thức của thương hiệu Jiho - một thương hiệu thực phẩm Hàn Quốc với thiết kế hiện đại và trải nghiệm người dùng tuyệt vời.",
+        "client": "Jiho Brand",
+        "tech": ["HTML", "CSS", "JavaScript", "WordPress"],
         "results": [
-          "Tăng gấp đôi tốc độ ra quyết định",
-          "Giảm 20% chi phí vận hành"
-        ]
+          "Thương hiệu thực phẩm",
+          "Thiết kế hiện đại",
+          "UX/UI tối ưu"
+        ],
+        "demoLink": "https://korean-f.vercel.app"
+      },
+      "p4": {
+        "title": "Viber Tool",
+        "description": "Công cụ tự động hóa việc gửi tin nhắn trên Viber với khả năng tùy chỉnh cao.",
+        "client": "Nội bộ",
+        "tech": ["C#", ".NET Framework"],
+        "results": ["Tự động hóa", "Tùy chỉnh linh hoạt", "Hiệu quả cao"],
+        "demoLink": "#"
       }
     },
     "team": {
+      "title": "Đội ngũ",
+      "our": "Đội ngũ của chúng tôi",
       "description": "Đội ngũ chuyên nghiệp và tài năng của chúng tôi luôn sẵn sàng mang đến những giải pháp tốt nhất cho khách hàng.",
       "nghiaPham": {
         "name": "Nghia Pham",
@@ -139,6 +162,7 @@
     },
     "contact": {
       "title": "Liên hệ",
+      "sectionTitle": "Liên hệ",
       "subtitle": "Gửi cho chúng tôi lời nhắn, chúng tôi sẽ phản hồi sớm nhất.",
       "fullName": "Họ và tên",
       "fullNamePlaceholder": "Nguyễn Văn A",

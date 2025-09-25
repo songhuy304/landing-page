@@ -33,10 +33,7 @@ const TeamSection = () => {
     <section id="team" className="py-16 md:py-24 bg-gray-50">
       <div className="container mx-auto px-4">
         <TitleHeading des={t("description")}>
-          <span className="text-gray-900">Our </span>
-          <span className="bg-gradient-to-r from-blue-50 to-blue-100 px-2 py-1 rounded-md">
-            Team
-          </span>
+          <span className="text-primary">{t("our")}</span>
         </TitleHeading>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -44,6 +41,8 @@ const TeamSection = () => {
             <div
               key={index}
               className="flex flex-col items-center justify-center group cursor-pointer"
+              data-aos="fade-right"
+              data-aos-delay={index * 250}
             >
               <div className="relative mb-6">
                 <div className="w-48 h-48 mx-auto rounded-full overflow-hidden shadow-lg">

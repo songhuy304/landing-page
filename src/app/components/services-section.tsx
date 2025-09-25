@@ -41,10 +41,7 @@ const ServicesSection = () => {
     <section id="services" className="py-16 md:py-24 bg-gray-50">
       <div className="container mx-auto px-4">
         <TitleHeading des={t("description")}>
-          <span className="text-gray-900">Our </span>
-          <span className="bg-gradient-to-r from-pink-50 to-pink-100 px-2 py-1 rounded-md">
-            Services
-          </span>
+          <span className="text-primary">{t("our")}</span>
         </TitleHeading>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">

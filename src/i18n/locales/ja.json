@@ -63,6 +63,8 @@
       "satisfaction": "顧客満足度"
     },
     "services": {
+      "title": "サービス",
+      "our": "私たちのサービス",
       "description": "私たちの使命は、期待を超える優れた製品とサービスを提供することで、進歩を促進し、お客様の生活を向上させることです。",
       "readMore": "詳細を見る",
       "cta": "今すぐお問い合わせ",
@@ -84,8 +86,11 @@
       }
     },
     "projects": {
+      "title": "プロジェクト",
+      "our": "私たちのプロジェクト",
       "description": "私たちが最近手がけた代表的なプロジェクトです。",
       "viewProject": "プロジェクトを見る",
+      "viewMore": "もっと見る",
       "common": {
         "client": "クライアント",
         "imagePending": "※画像は準備中",
@@ -93,28 +98,41 @@
         "results": "成果"
       },
       "p1": {
-        "title": "ECプラットフォーム",
-        "description": "在庫管理、決済、分析を備えたオムニチャネル販売システム。",
-        "client": "環境配慮型企業",
-        "tech": ["Next.js", "TypeScript", "Stripe", "PostgreSQL"],
-        "results": ["売上300%向上", "月間10万PV達成"]
+        "title": "LHF",
+        "description": "株式会社LHFの公式ウェブサイト。ネイル、小売、人材紹介サービスを専門としています。",
+        "client": "株式会社LHF",
+        "tech": ["Next.js", "TypeScript", "Tailwind CSS"],
+        "results": ["公式ウェブサイト", "多言語対応", "レスポンシブデザイン"],
+        "demoLink": "https://lhf.co.jp"
       },
       "p2": {
-        "title": "予約管理アプリ",
-        "description": "サロンやクリニック向けのリアルタイム予約ソリューション。",
-        "client": "美容サロン",
-        "tech": ["Flutter", "Firebase"],
-        "results": ["ノーショー率-35%", "予約処理時間-50%"]
+        "title": "City Land",
+        "description": "不動産サービス、マンション販売プロジェクトの紹介ウェブサイト。",
+        "client": "City Land",
+        "tech": ["HTML", "CSS", "JavaScript", "WordPress"],
+        "results": ["不動産ウェブサイト", "ユーザーフレンドリー", "SEO最適化"],
+        "demoLink": "https://city-land-six.vercel.app"
       },
       "p3": {
-        "title": "データ分析ダッシュボード",
-        "description": "企業KPIとアラートのためのリアルタイムダッシュボード。",
-        "client": "SaaS企業",
-        "tech": ["React", "NestJS", "ClickHouse"],
-        "results": ["意思決定スピード2倍", "運用コスト-20%"]
+        "title": "Jiho!",
+        "description": "韓国食品ブランドJihoの公式ウェブサイト。モダンなデザインと優れたユーザーエクスペリエンスを提供。",
+        "client": "Jiho Brand",
+        "tech": ["HTML", "CSS", "JavaScript", "WordPress"],
+        "results": ["食品ブランド", "モダンデザイン", "UX/UI最適化"],
+        "demoLink": "https://korean-f.vercel.app"
+      },
+      "p4": {
+        "title": "Viber Tool",
+        "description": "Viberでのメッセージ送信を自動化するツール。高いカスタマイズ性を提供。",
+        "client": "内部",
+        "tech": ["C#", ".NET Framework"],
+        "results": ["自動化", "柔軟なカスタマイズ", "高効率"],
+        "demoLink": "#"
       }
     },
     "team": {
+      "title": "チーム",
+      "our": "私たちのチーム",
       "description": "私たちのプロフェッショナルで才能豊かなチームは、お客様に最高のソリューションを提供する準備ができています。",
       "nghiaPham": {
         "name": "Nghia Pham",
@@ -135,6 +153,7 @@
     },
     "contact": {
       "title": "お問い合わせ",
+      "sectionTitle": "お問い合わせ",
       "subtitle": "メッセージをお送りください。できるだけ早くご連絡いたします。",
       "fullName": "お名前",
       "fullNamePlaceholder": "山田 太郎",

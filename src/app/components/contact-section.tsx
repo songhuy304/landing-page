@@ -40,10 +40,10 @@ export default function ContactSection() {
   };
 
   return (
-    <section className="container mx-auto px-4 py-16">
-      <div className="mx-auto max-w-2xl">
+    <section className="container mx-auto px-4 py-16" id="contact">
+      <div className="mx-auto max-w-2xl" data-aos="fade-up">
         <h2 className="mb-2 text-center text-3xl font-semibold">
-          {t("title")}
+          {t("sectionTitle")}
         </h2>
         <p className="mb-8 text-center text-muted-foreground">
           {t("subtitle")}
