@@ -16,7 +16,7 @@ export default function Footer() {
           {/* Brand & description */}
           <div className="space-y-4">
             <Link href="/" className="inline-block">
-              <Logo width={160} height={44} />
+              <Logo />
             </Link>
             <p className="text-gray-600 leading-relaxed max-w-xl mx-auto">
               {metaT("description")}
@@ -32,7 +32,7 @@ export default function Footer() {
         <div className="border-t border-gray-200 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-500 text-sm">
-              © {new Date().getFullYear()} Whitepace Co., Ltd.{" "}
+              © {new Date().getFullYear()} Shinku Co., Ltd.{" "}
               {homeT("allRightsReserved")}.
             </p>
             <div className="mt-4 md:mt-0">

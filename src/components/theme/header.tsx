@@ -46,7 +46,7 @@ export default function Header() {
                 isScrolled ? "text-gray-800" : "text-white"
               )}
             >
-              <Logo width={150} height={36} />
+              <Logo />
             </Link>
           </div>
 

@@ -26,7 +26,11 @@ export async function generateMetadata(): Promise<Metadata> {
     title: t("title"),
     description: t("description"),
     icons: {
-      icon: [{ url: "/favicon.png" }],
+      icon: [
+        { url: "/favicon.ico", sizes: "any" },
+        { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+        { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      ],
     },
     alternates: {
       languages: {
@@ -34,23 +38,23 @@ export async function generateMetadata(): Promise<Metadata> {
         ja: "/ja",
       },
     },
-    keywords: ["IT", "Whitepace", "phần mềm"],
-    authors: [{ name: "Whitepace" }],
+    keywords: ["IT", "Shinku Labs", "phần mềm"],
+    authors: [{ name: "Shinku Labs" }],
     creator: t("title"),
     publisher: t("title"),
     openGraph: {
       type: "website",
       locale: "ja",
-      url: "https://www.whitepace.vn",
+      url: "https://www.Shinku Labs.vn",
       title: t("title"),
       description: t("description"),
       siteName: t("title"),
       images: [
         {
-          url: "/logo.svg",
+          url: "/favicon-32x32.png",
           width: 1200,
           height: 630,
-          alt: "Whitepace",
+          alt: "Shinku Labs",
         },
       ],
     },
